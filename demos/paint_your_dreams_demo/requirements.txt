@@ -5,7 +5,7 @@ optimum==1.23.2
 optimum-intel==1.20.0
 diffusers>=0.31.0
 transformers
-onnx==1.16.0
+onnx==1.17.0
 opencv-python
 tqdm
 requests
