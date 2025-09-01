@@ -6,8 +6,8 @@ ultralytics==8.2.10
 numpy==1.23.5
 pillow==10.3.0
 opencv-python==4.10.0.82
-onnx==1.16.0
-torch==2.2.0
+onnx==1.17.0
+torch==2.7.0
 torchvision==0.17.0
 supervision==0.11.0
 jupyterlab==4.2.5
