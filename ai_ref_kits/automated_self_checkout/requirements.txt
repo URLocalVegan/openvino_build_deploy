@@ -3,5 +3,5 @@ nncf==2.5.0
 ultralytics==8.0.117
 onnx==1.16.0
 supervision==0.16.0
-jupyterlab==4.2.5
+jupyterlab==4.4.8
 pycocotools==2.0.6
