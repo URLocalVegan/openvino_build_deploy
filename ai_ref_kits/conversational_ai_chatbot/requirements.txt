@@ -12,7 +12,7 @@ langchain-text-splitters==0.2.2
 llama-index-vector-stores-faiss==0.2.1
 faiss-cpu==1.8.0
 
-onnx==1.16.1
+onnx==1.21.0
 onnxruntime==1.17.3
 torch==2.3.1
 
@@ -21,5 +21,5 @@ librosa==0.10.2
 pyyaml==6.0.1
 PyMuPDF==1.24.10
 
-gradio==4.42.0
+gradio==6.7.0
 fastapi==0.112.4
